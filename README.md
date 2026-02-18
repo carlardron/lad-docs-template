@@ -1,3 +1,7 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Node.js](https://img.shields.io/badge/node-%3E%3D18-green)
+![Status](https://img.shields.io/badge/status-template-blue)
+
 # LAD Documentation
 
 Welcome to the LAD documentation repository. This repository contains documentation, procedures, and guidelines for the LAD project.
