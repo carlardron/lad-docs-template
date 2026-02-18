@@ -238,7 +238,7 @@ This is a personal knowledge base, but feel free to:
 
 ## 📄 License
 
-ISC
+MIT
 
 ---
 
