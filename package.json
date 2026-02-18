@@ -1,0 +1,33 @@
+{
+  "name": "lad-docs",
+  "version": "1.0.0",
+  "description": "Personal knowledge base and documentation repository",
+  "main": "index.js",
+  "scripts": {
+    "new": "node scripts/new-doc.js",
+    "create-dir": "node scripts/create-dir.js",
+    "search": "node scripts/search.js",
+    "list": "node scripts/list-docs.js",
+    "list-all": "node scripts/list-docs.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlardron/lad-docs.git"
+  },
+  "keywords": [
+    "documentation",
+    "knowledge-base",
+    "notes",
+    "procedures",
+    "markdown",
+    "ai-workflow",
+    "personal-wiki"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carlardron/lad-docs/issues"
+  },
+  "homepage": "https://github.com/carlardron/lad-docs#readme"
+}
